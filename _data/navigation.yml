@@ -1,7 +1,7 @@
 main:
   - title: "POSTS"
     url: /posts/
-  - title: "DLN"
+  - title: "DLN.md"
     url: /dln/
   - title: "Categories"
     url: /categories/
