@@ -1,5 +1,5 @@
 ---
-permalink: /dln.md/
+permalink: /dln/
 title: "Digital Literacy Narrative F23"
 ---
 
