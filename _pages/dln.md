@@ -20,7 +20,4 @@ I have no prior experience with technology and newfound knowledge in regards to 
 
 In conclusion, as a university student taking an introductory course in digital humanities will definetly be eye-opening and enriching. I have come to appreciate the potential of technology for research data management, data manipulation, and analysis, and I am eager to continue learning about how to effectively utilize these tools in my academic and professional life. While I have some basic skills in content creation and social interaction, I am aware that there is still much more to learn and I am eager to continue to expand my knowledge and abilities in this area.
 
----
-"/assets/images/Dln.jpg"
----
 
