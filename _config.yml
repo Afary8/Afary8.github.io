@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Afary8"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/cat.jpg"
   bio    : "This is just a test, don't get too excited."
   links:
     - label: "Website"
