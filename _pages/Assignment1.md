@@ -1,5 +1,5 @@
 ---
 permalink: /assignment1/
-title: "assignment 1"
+title: "Assignment 1"
 ---
 
