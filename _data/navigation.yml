@@ -3,6 +3,8 @@ main:
     url: /posts/
   - title: "DLN"
     url: /dln/
+  - title: "Assignment1"
+    url: /Assignment1/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
