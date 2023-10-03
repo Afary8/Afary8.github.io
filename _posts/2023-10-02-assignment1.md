@@ -75,8 +75,8 @@ We looked at Islamic Cultures, and according to the information on Posit cloud, 
 (2 Views) [Coin  Islamic](https://www.harvardartmuseums.org/collections/object/181754)
 (2 VIews) [Enamelled Fragment  Islamic](https://www.harvardartmuseums.org/collections/object/216387)
 
-
-
+<img src="/assets/images/3.jpg" style="zoom:25%;" />
+<img src="/assets/images/4.jpg" style="zoom:25%;" />
 
 
 
@@ -104,7 +104,7 @@ Not really, because the least viewed objects aren’t organized and don’t real
 
 Using the accession year data and the time series bar chart, what can you say about the acquisition of works coming from these three cultures? 
 
-
+<img src="/assets/images/5.jpg" style="zoom:25%;" />
 
 
 
@@ -127,7 +127,7 @@ Using a choice of three cultures and the notebook, build a word cloud based on t
 
 Our choice of three cultures were: Byzantine, Iraqi and Egyptian cultures
 
-
+<img src="/assets/images/6.jpg" style="zoom:25%;" />
 
 
 
