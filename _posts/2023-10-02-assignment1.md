@@ -35,13 +35,13 @@ CSV File:
 
 
 
-Was the website or the csv file easier to use? 
+**Was the website or the csv file easier to use?** 
 
 Amal: While the website aids in exploring the museum visually, I found the CSV file more fun to use because you don’t know what you’re going to get until you paste the link and analyze the image. What was especially interesting to me was to compare what I’ve imagined based solely on the title to what the actual drawing is. 
 
 Afra: The website was easier to navigate, it showed me the art piece directly and it didn’t require so much effort. Therefore, I found it easier for me from the csv file which was time consuming. 
 
-What are you able to say about the art pieces from their metadata?
+**What are you able to say about the art pieces from their metadata?**
 
 Afra: The art pieces according to their metadata are organized according to dates and object type. For example, all the photographs are placed in a specific order according to date. 
 
@@ -55,25 +55,26 @@ We looked at Islamic Cultures, and according to the information on Posit cloud, 
 
 5 Most Viewed:
 
-(418 views) [lobed cup with handle](https://harvardartmuseums.org/collections/object/322953)
-(321 views) Calligraphic Emblem of  
+- (418 views) [lobed cup with handle](https://harvardartmuseums.org/collections/object/322953)
+- (321 views) Calligraphic Emblem of  
 [Ali Jinab Navab Sahib Mustafa Ali Khan Sahib Bahador](https://harvardartmuseums.org/collections/object/215996)
-(316 views) 
+- (316 views) 
 [Albarello](https://harvardartmuseums.org/collections/object/165391)
-(301 views) 
+- (301 views) 
 [Lintel Islamic](https://harvardartmuseums.org/collections/object/339972)
-(258 views) 
+- (258 views) 
 [Small dish with lanceolate leaves](https://harvardartmuseums.org/collections/object/70010)
 
 <img src="/assets/images/1.jpg" style="zoom:25%;" />
 <img src="/assets/images/2.jpg" style="zoom:25%;" />
+
 5 Least Viewed:
 
-(0 Views) [Islamic coin  Islamic](https://www.harvardartmuseums.org/collections/object/181382) 
-(0 Views) [Carpet Islamic](https://www.harvardartmuseums.org/collections/object/214573)
-(1 View) [Islamic coin Islamic](https://www.harvardartmuseums.org/collections/object/181555)
-(2 Views) [Coin  Islamic](https://www.harvardartmuseums.org/collections/object/181754)
-(2 VIews) [Enamelled Fragment  Islamic](https://www.harvardartmuseums.org/collections/object/216387)
+- (0 Views) [Islamic coin  Islamic](https://www.harvardartmuseums.org/collections/object/181382) 
+- (0 Views) [Carpet Islamic](https://www.harvardartmuseums.org/collections/object/214573)
+- (1 View) [Islamic coin Islamic](https://www.harvardartmuseums.org/collections/object/181555)
+- (2 Views) [Coin  Islamic](https://www.harvardartmuseums.org/collections/object/181754)
+- (2 VIews) [Enamelled Fragment  Islamic](https://www.harvardartmuseums.org/collections/object/216387)
 
 <img src="/assets/images/3.jpg" style="zoom:25%;" />
 <img src="/assets/images/4.jpg" style="zoom:25%;" />
