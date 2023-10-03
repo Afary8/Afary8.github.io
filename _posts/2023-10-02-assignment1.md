@@ -12,7 +12,7 @@ tags:
 Assignment 1 With Amal 
 
 
-#### Part 1:
+## Part 1:
  
 Explore the HAM website as well as the csv file of All Objects (found in the posit-cloud project). 
 
@@ -47,7 +47,7 @@ Afra: The art pieces according to their metadata are organized according to date
 
 Amal: The metadata in the csv file lists almost everything that the website does. For example; titles, classification, type, date, and potential place of origin, period and culture. The metadata compiles all that information in a singular file to help researchers find particular pieces that are in correspondence to their research.
 
-#### Part 2: 
+## Part 2: 
 
 Use the notebook to determine for a given culture what the most viewed items are in the HAM website?
 
@@ -122,7 +122,7 @@ It is important to understand that a museum located in a specific region would p
 
 
 
-#### Part 3: 
+## Part 3: 
 
 Using a choice of three cultures and the notebook, build a word cloud based on the combined descriptions and titles of the objects from those cultures. 
 
