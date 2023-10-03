@@ -85,25 +85,25 @@ We looked at Islamic Cultures, and according to the information on Posit cloud, 
 
 
 
-Describe the origin of these objects? 
+**Describe the origin of these objects?** 
 
 The five top viewed objects originated mostly from the middle east, specifically Syria, Iran, Iraq and Turkey.  However, Lintel fourth in the list is from Morocco. 
 The five lowest viewed objects, 
 
 These objects originated from the Islamic Culture but that can mean so many places, Middle East, Syria and Egypt
 
-Can you speculate on why the most and least viewed objects are what they are? 
+**Can you speculate on why the most and least viewed objects are what they are?** 
 
 The most viewed artifact is related to the prophet mohammed. Due to its historical and religious background, it can be the reason why it’s considered the most important, therefore most viewed. 
 
 The least viewed objects are either repetitive take the Islamic Coin as an example, it is mentioned 3 times in the least viewed objects, additionally some objects don’t even have an image uploaded on the website. Or, these objects have been recently uploaded to the Harvard Art Museum. And, upon further insight, it seems like the Harvard Art Museum didn’t reach the conclusion that islamic culture could mean so many things, And that the Islamic Culture belongs to many cultures.
 
-Are these numbers surprising to you? 
+**Are these numbers surprising to you?** 
 It was, and I wasn’t expecting the numbers to be that high. Especially for the most viewed object, I didn't expect it to be related to the prophet mohammed. 
 
 Not really, because the least viewed objects aren’t organized and don’t really carry much information about 
 
-Using the accession year data and the time series bar chart, what can you say about the acquisition of works coming from these three cultures? 
+**Using the accession year data and the time series bar chart, what can you say about the acquisition of works coming from these three cultures?** 
 
 <img src="/assets/images/5.jpg" style="zoom:25%;" />
 
@@ -112,11 +112,11 @@ Using the accession year data and the time series bar chart, what can you say ab
 
 
 
-Do they tell you something about the relative popularity of art in a university museum in the United States? 
+**Do they tell you something about the relative popularity of art in a university museum in the United States?** 
 
 The trends in the bar chart above show barely visible data about the counts of accession when it comes to the Iraqi culture pieces and objects throughout the years. However, Egyptian culture seems to be the second runner up in our group of cultures, where you can see a visible spike in the 1920s and the 1970s; we believe that this might be because of the general popularity of Egyptian culture worldwide, and that these spikes aren’t that significant nor surprising. But, the major eye catcher would have to be the obvious increase of the Byzantine objects and pieces in the 1950s, upon research we couldn’t find a historical or political reasoning, but, what we came to a conclusion that the Byzantine Empire was very christian and ruled by constantine even after the fall of the Roman Empire, and in correlation to the fact that the USA is a christian-majority country we believe that this might be a reason why the where is a sharp rise in accession maybe because of donors or some other reason. 
 
-Can you compare it to other museums you have visited or know about?
+**Can you compare it to other museums you have visited or know about?**
 
 It is important to understand that a museum located in a specific region would prioritize its own culture and similar cultures because of similarity in history, religion, heritage, etc. 
 
