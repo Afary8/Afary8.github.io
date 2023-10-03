@@ -19,7 +19,8 @@ Explore the HAM website as well as the csv file of All Objects (found in the pos
 Choose a few pieces from the collections of interest to you. 
 
 Website:
-[piece1](https://harvardartmuseums.org/article/reconstructing-the-staff-of-em-nydia-the-blind-flower-girl-of-pompeii-em)
+
+[firstpiece](https://harvardartmuseums.org/article/reconstructing-the-staff-of-em-nydia-the-blind-flower-girl-of-pompeii-em)
 
 https://harvardartmuseums.org/exhibitions/6321/a-colloquium-in-the-visual-arts
 
