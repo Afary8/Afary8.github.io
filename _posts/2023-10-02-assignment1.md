@@ -136,14 +136,14 @@ Our choice of three cultures were: Byzantine, Iraqi and Egyptian cultures
 
 
 
-Does this summary of the words tell us something about the way that cultures are important in a US art museum? 
+**Does this summary of the words tell us something about the way that cultures are important in a US art museum?**
 
 The words that appear for all three cultures give us a background on their artifacts and historical arts that are seen as important to the US art museum. For example, for the Byzantine culture, the word Crown, Cross, and Bust are the most apparent which indicates that the artifacts are related to those words. In regards to the Iraqi culture, the word Fire is the biggest which could be relevant to the history of Iraq, and lastly the Egyptian culture where the most vibrant word is Sherd. Therefore, this is seen as crucial for the US art museum as it tells them more about the history by giving them a broad view of the specific culture.
   
-Use the stop word function to remove certain words to “dig in” to the textual data a bit more?
+**Use the stop word function to remove certain words to “dig in” to the textual data a bit more?**
 
  When you remove very high frequency words what do you discover? When we remove very high frequency words out of the stop word function, the word cloud gets filled with more words that are unnecessary and very irrelevant to the culture. On the other hand, if I put a hashtag and deactivate the stopword function, more words will appear, such as and and of 
 
-Compare your results across cultures. 
+**Compare your results across cultures.** 
 This occurs across the three cultures, the high frequency words disappear (as expected) however the original stopwords get enlarged and original low frequency words come to the foreground. 
 
