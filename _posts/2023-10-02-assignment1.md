@@ -65,8 +65,8 @@ We looked at Islamic Cultures, and according to the information on Posit cloud, 
 (258 views) 
 [Small dish with lanceolate leaves](https://harvardartmuseums.org/collections/object/70010)
 
-
-
+<img src="/assets/images/1.jpg" style="zoom:25%;" />
+<img src="/assets/images/2.jpg" style="zoom:25%;" />
 5 Least Viewed:
 
 (0 Views) [Islamic coin  Islamic](https://www.harvardartmuseums.org/collections/object/181382) 
