@@ -45,11 +45,11 @@ A particularly intriguing discovery emerged from our analysis when we noticed th
 6. How well would this assignment work for a language other than English?
 In our personal opinion, this would work well in languages similar to English, like the ones using the same alphapet; french, spanish etc. But with arabic, I feel it will be particularly difficult, as arabic has many ways of saying something like with past and present, will be the same word but with a different way of writing. So, this assignment will work for some languages but not all that are in a different alphapet like arabic. 
 
-<img src="/assets/images/A2-1.jpg" style="zoom:95%;" />
+<img src="/assets/images/A2-1.jpg" style="zoom:100%;" />
 
-<img src="/assets/images/A2-2.jpg" style="zoom:95%;" />
+<img src="/assets/images/A2-2.jpg" style="zoom:100%;" />
 
-<img src="/assets/images/A2-3.jpg" style="zoom:95%;" />
+<img src="/assets/images/A2-3.jpg" style="zoom:100%;" />
 
-<img src="/assets/images/A2-4.jpg" style="zoom:95%;" />
+<img src="/assets/images/A2-4.jpg" style="zoom:100%;" />
 
