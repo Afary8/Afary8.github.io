@@ -47,3 +47,9 @@ In our personal opinion, this would work well in languages similar to English, l
 
 <img src="/assets/images/A2-1.jpg" style="zoom:95%;" />
 
+<img src="/assets/images/A2-2.jpg" style="zoom:95%;" />
+
+<img src="/assets/images/A2-3.jpg" style="zoom:95%;" />
+
+<img src="/assets/images/A2-4.jpg" style="zoom:95%;" />
+
