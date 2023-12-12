@@ -29,8 +29,7 @@ In addition to these chapters, my course delved into several key topics, such as
 
 Lastly, we encountered a project that opened our eyes and challenged our creativity. The "unproject" is an assignment where we had to come up with a project and implement things we learned in the course. Me and my partner did our project on the Henna industry, where we are collecting data of different henna designs around the world, and by using image recongition and AI, we will produce new henna desgigns which then will be made into stencils for people to use. This "unproject" made us think outside the box, and open up new ideas where we can potentially turn this project into a real business. 
 
-In essence, my journey in the field of digital humanities has been an eye-opening and enriching experience. It deepened my appreciation for the potential of technology in reshaping research, analysis, and communication in the humanities. Drucker’s book, with its insightful chapters, was a guiding light throughout this journey, and I am excited to continue exploring the diverse facets of digital humanities in the years to come.
-
+In essence, my journey in the field of digital humanities has been an eye-opening and enriching experience. It deepened my appreciation for the potential of technology in reshaping research, analysis, and communication in the humanities. Drucker’s book, with its insightful chapters, was a guiding light throughout this journey, giving me a wonderful start to the major of interactive media. And I'm proud to say that after this class, I will be majoring in interactive media.  
 
 <img src="/assets/images/A2-1.jpg" style="zoom:25%;" />
 
