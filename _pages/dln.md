@@ -31,6 +31,10 @@ Lastly, we encountered a project that opened our eyes and challenged our creativ
 
 In essence, my journey in the field of digital humanities has been an eye-opening and enriching experience. It deepened my appreciation for the potential of technology in reshaping research, analysis, and communication in the humanities. Drucker’s book, with its insightful chapters, was a guiding light throughout this journey, giving me a wonderful start to the major of interactive media. And I'm proud to say that after this class, I will be majoring in interactive media.  
 
-<img src="/assets/images/A2-1.jpg" style="zoom:25%;" />
+<figure>
+	<img src="/assets/images/A2-1.jpg" style="zoom:100%;" />
+	<figcaption>Just because you wanted a caption
+</figure>
+
 
 
