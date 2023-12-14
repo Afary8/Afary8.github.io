@@ -40,7 +40,7 @@ In embracing the UAE Exports & Industry Directory, we didn't just choose a sourc
 
 ## Step 2
 
-<img src="/assets/images/datalist.jpg" style="zoom:100%;" />
+<img src="/assets/images/datalist.jpg" style="zoom:200%;" />
 
 
 For Step 2, of our spatial modeling assignment, our initial focus was on structuring the data for effective geolocation. We opted to categorize the data into four key columns using ChatGPT: Bank Name, Address, Phone, and Website. While the Phone and Website columns were not primary factors for geolocation, we deemed them as additional, aesthetically pleasing information.
@@ -52,13 +52,13 @@ We didn’t have to use ChatGPT because the data was generally organized, howeve
 
 ## Step 3+4
 
-<img src="/assets/images/w.jpg" style="zoom:100%;" />
+<img src="/assets/images/w.jpg" style="zoom:200%;" />
 
 
-<img src="/assets/images/e.jpg" style="zoom:100%;" />
+<img src="/assets/images/e.jpg" style="zoom:200%;" />
 
 
-<img src="/assets/images/q.jpg" style="zoom:100%;" />
+<img src="/assets/images/q.jpg" style="zoom:200%;" />
 
 
 Our decision to employ the "geocode by awesome table" extension for the geocoding of foreign banks in Dubai encountered notable challenges during the initial stages of the process. The primary issue stemmed from the dual role of these foreign banks, operating not only in Dubai but also as local entities in various international locations. Consequently, when the initial CSV file was uploaded onto Kepler.gl, the mapping inaccurately included locations in countries such as Iran, Turkey, and Kuwait.
