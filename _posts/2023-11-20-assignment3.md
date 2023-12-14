@@ -16,7 +16,8 @@ Assignment 3 With Amal
 
 ## Step 1 
 
-<img src="/assets/images/coverpage.jpg" style="zoom:100%;" />
+<img src="/assets/images/coverpage.jpg" style="zoom:200%;" />
+<figcaption>The book cover
 
  
 Our choice to lean on Source #8, particularly the UAE Exports & Industry Directory, wasn't just a cold, calculated decision—it was driven by a deep curiosity about the heartbeat of Dubai's economic life. This directory, a labor of love guided by the government of Dubai for the years 2017-2018, stitches together the diverse stories of industries like a patchwork quilt. From the Food Industry to the glimmering Jewelry Sector, from the intricate web of Insurance Companies to our main squeeze, the Banking Sector, it's a tapestry that tells the tale of Dubai's economic dance.
