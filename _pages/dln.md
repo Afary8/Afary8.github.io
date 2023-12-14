@@ -34,7 +34,7 @@ In essence, my journey in the field of digital humanities has been an eye-openin
 <figure>
 	<img src="/assets/images/A2-1.jpg" style="zoom:100%;" />
 	<figcaption>Just because you wanted a caption
-</figure>
+
 
 
 
