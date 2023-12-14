@@ -18,7 +18,6 @@ Assignment 3 With Amal
 
 <figure>
   <img src="/assets/images/coverpage.jpg" style="zoom:200%;" />
-  <figcaption>The book cover
 
 
  
